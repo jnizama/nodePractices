@@ -1,0 +1,11 @@
+{
+ 
+ "author": "Jorge Nizama",
+ "dependencies": {
+  "express": "^4.16.4",
+  "request": ""
+ },
+ "scripts": {
+  "start": "node main.js"
+ }
+}
